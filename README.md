@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h1 style="margin: 0;">Hi 👋, I'm harishuptodate</h1>
+  <h1 style="margin: 0;">Hi 👋, I'm Harish</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Full%20Stack%20Developer%F0%9F%92%BB%3BDevOps%20and%20Cloud%20Engineer%F0%9F%8C%A7%EF%B8%8F%F0%9F%8C%90%E2%98%B8%EF%B8%8F%3BTech%20Enthusiast%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" style="margin-left: 10px;" />
 </div>
 
