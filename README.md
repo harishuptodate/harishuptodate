@@ -1,6 +1,6 @@
-#<div style="display: flex; align-items: flex-start;">
- #<img src="https://visitcount.itsvg.in/api?id=harishuptodate&label=Profile%20Views&color=1&icon=5&pretty=true" />
-#</div>
+<div style="display: flex; align-items: flex-start;">
+ <img src="https://visitcount.itsvg.in/api?id=harishuptodate&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</div>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm Harish</h1>
